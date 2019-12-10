@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuilderAndFactoryMethod\BuilderAndFactoryMethod.csproj" />
+    <ProjectReference Include="..\ChainAndDelegate\ChainAndDelegate.csproj" />
+    <ProjectReference Include="..\Iterator\Iterator.csproj" />
+    <ProjectReference Include="..\Observer\Observer.csproj" />
+    <ProjectReference Include="..\Strategy\Strategy.csproj" />
+  </ItemGroup>
+
+</Project>

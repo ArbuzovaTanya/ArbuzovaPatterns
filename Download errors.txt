@@ -1,0 +1,8 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+db.lock - https://onedrive.live.com/?cid=974fbdf5fda8d537&id=974FBDF5FDA8D537%21112849&action=Download&authKey=!ACDwBSlql8gMeAY
+
+ArbuzovaPatterns.csproj.CopyComplete - https://onedrive.live.com/?cid=974fbdf5fda8d537&id=974FBDF5FDA8D537%21112594&action=Download&authKey=!ACDwBSlql8gMeAY
+
+
+
